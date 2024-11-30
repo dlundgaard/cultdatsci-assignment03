@@ -46,6 +46,6 @@ patch.edgecolor: C0
 lines.linewidth: 1.6
 lines.markersize: 4
 hatch.linewidth: 0.5
-font.family: serif, sans-serif
+font.family: Sabon, serif, sans-serif
 mathtext.fontset: "cm"
 font.size: 6
